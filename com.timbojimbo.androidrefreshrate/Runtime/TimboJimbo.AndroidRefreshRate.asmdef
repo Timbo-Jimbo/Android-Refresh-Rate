@@ -1,0 +1,14 @@
+{
+    "name": "TimboJimbo.AndroidRefreshRate",
+    "rootNamespace": "TimboJimbo.AndroidRefreshRate",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

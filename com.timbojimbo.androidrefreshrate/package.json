@@ -1,0 +1,16 @@
+{
+	"name": "com.timbojimbo.androidrefreshrate",
+	"displayName": "Android Refresh Rate",
+	"version": "0.1.0",
+	"unity": "6000.0",
+	"description": "Add and forget: on Android, turns Optimized Frame Pacing off and sets the display's refresh rate to follow Application.targetFrameRate, as close as the screen allows.",
+	"dependencies": {},
+	"author": {
+		"name": "Timbo Jimbo",
+		"url": "https://timbojimbo.com",
+		"email": "hello@timbojimbo.com"
+	},
+	"changelogUrl": "https://github.com/Timbo-Jimbo/Android-Refresh-Rate/blob/main/com.timbojimbo.androidrefreshrate/CHANGELOG.md",
+	"documentationUrl": "https://github.com/Timbo-Jimbo/Android-Refresh-Rate#readme",
+	"licensesUrl": "https://github.com/Timbo-Jimbo/Android-Refresh-Rate/blob/main/LICENSE"
+}
